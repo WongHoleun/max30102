@@ -1,0 +1,5 @@
+../hardware/V8.c:13:6:Sent_data_v8	40	static
+../hardware/V8.c:49:6:Sent_Data_DMA_Qt	56	static
+../hardware/V8.c:84:6:max3010x_plot_ppg	128	static
+../hardware/V8.c:188:6:max3010x_plot	48	static
+../hardware/V8.c:230:6:max3010x_plot1	48	static
